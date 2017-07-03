@@ -1,2 +1,2 @@
-# matlab
-An assortment of useful little scripts
+# rapidweaver base for Vermont Complex Systems website
+
