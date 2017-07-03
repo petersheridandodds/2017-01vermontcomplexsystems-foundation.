@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict/>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>1-Undergraduate-degrees</string>
+				<string>2-Certificate-of-Graduate-Study-in-Complex-Systems</string>
+				<string>3-Masters-in-Complex-Systems-and-Data-Science</string>
+				<string>4-PhD-in-Complex-Systems-and-Data-Science</string>
+				<string>5-Sample-lectures</string>
+				<string>6-All-courses</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Pages</string>
+</dict>
+</plist>
